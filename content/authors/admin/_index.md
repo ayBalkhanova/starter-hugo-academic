@@ -17,12 +17,12 @@ organizations:
 bio: Я изучаю прикладную математику и информатику.
 
 # Interests to show in About widget
-Интересы:
+interests:
   - Программирование
   - Математика
 
 # Education to show in About widget
-Образование:
+education:
   courses:
     - course: Среднее полное образование
       year: 2021
