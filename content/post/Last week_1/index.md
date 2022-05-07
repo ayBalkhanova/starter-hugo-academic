@@ -52,27 +52,27 @@ categories:
 
   ![установка hugo](image/Screenshot_01.png)
 
-1. Скачала шаблон темы сайта и разместила его на github: 
+2. Скачала шаблон темы сайта и разместила его на github: 
 
   ![шаблон сайта](image/Screenshot_2.png)
 
-1. Создала сайт и прикрепила к github: 
+3. Создала сайт и прикрепила к github: 
 
   ![создание сайта](image/Screenshot_1.png)
 
   ![авторизация](image/Screenshot_02.png)
 
-1. Установила URL сайта [https://aybalkhanova.netlify.app](https://aybalkhanova.netlify.app): 
+4. Установила URL сайта [https://aybalkhanova.netlify.app](https://aybalkhanova.netlify.app): 
 
   ![URL сайта](image/Screenshot_3.png)
 
-1. Так выглядит скачанный шаблон сайта: 
+5. Так выглядит скачанный шаблон сайта: 
 
   ![шаблон сайта](image/Screenshot_4.png)
 
   ![шаблон сайта](image/Screenshot_5.png)
 
-1. Изменила имя и организацию: 
+6. Изменила имя и организацию: 
 
   ![сайт](image/Screenshot_6.png)
 
