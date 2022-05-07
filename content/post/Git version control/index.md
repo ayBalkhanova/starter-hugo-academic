@@ -24,7 +24,6 @@ featured: false
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'Image credit: [Сайт](1.png)'
- 
   focal_point: ''
   placement: 2
   preview_only: false
@@ -38,6 +37,8 @@ tags:
 categories:
   - Demo
 ---
+
+![Сайт](1.png)
 
 ## Локальные системы контроля версий
 
