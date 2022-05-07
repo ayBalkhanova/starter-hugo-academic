@@ -65,4 +65,3 @@ highlight_name: true
 
 Я являюсь студентом первого курса Российского университета дружбы народов. Мой факультет - факультет физико-математических и естественных наук. Направление - прикладная математика и информатика.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
