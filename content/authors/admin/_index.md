@@ -16,12 +16,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Я изучаю прикладную математику и информатику.
 
-# Interests to show in About widget
+# Интересы to show in About widget
 интересы:
   - Программирование
   - Математика
 
-# Education to show in About widget
+# Образование to show in About widget
 Образование:
   courses:
     - course: Среднее полное образование
