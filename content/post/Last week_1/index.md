@@ -48,37 +48,31 @@ categories:
 
 ## Ход работы
 
-1. Установила hugo: (рис. [-@fig:001])
+1. Установила hugo: 
 
-![установка hugo](image/Screenshot_01.png){ #fig:001 width=70% }
+![установка hugo](image/Screenshot_01.png)
 
-1. Скачала шаблон темы сайта и разместила его на github: (рис. [-@fig:002])
+1. Скачала шаблон темы сайта и разместила его на github: 
 
-![шаблон сайта](image/Screenshot_2.png){ #fig:002 width=70% }
+![шаблон сайта](image/Screenshot_2.png)
 
-1. Создала сайт(рис. [-@fig:003] и прикрепила к github(рис. [-@fig:004]): 
+1. Создала сайт(рис. [-@fig:003] и прикрепила к github: 
 
-![создание сайта](image/Screenshot_1.png){ #fig:3 width=70% }
+![создание сайта](image/Screenshot_1.png)
 
-![авторизация](image/Screenshot_02.png){ #fig:004 width=70% }
+![авторизация](image/Screenshot_02.png)
 
-1. Установила URL сайта [https://aybalkhanova.netlify.app](https://aybalkhanova.netlify.app): (рис. [-@fig:005])
+1. Установила URL сайта [https://aybalkhanova.netlify.app](https://aybalkhanova.netlify.app): 
 
-![URL сайта](image/Screenshot_3.png){ #fig:005 width=70% }
+![URL сайта](image/Screenshot_3.png)
 
-1. Так выглядит скачанный шаблон сайта: (рис. [-@fig:006], [-@fig:007])
+1. Так выглядит скачанный шаблон сайта: 
 
-![шаблон сайта](image/Screenshot_4.png){ #fig:006 width=70% }
+![шаблон сайта](image/Screenshot_4.png)
 
-![шаблон сайта](image/Screenshot_5.png){ #fig:007 width=70% }
+![шаблон сайта](image/Screenshot_5.png)
 
-1. Изменила имя и организацию: (рис. [-@fig:008]) 
+1. Изменила имя и организацию: 
 
-![сайт](image/Screenshot_6.png){ #fig:008 width=70% }
+![сайт](image/Screenshot_6.png)
 
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
