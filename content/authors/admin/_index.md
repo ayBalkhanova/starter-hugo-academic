@@ -18,7 +18,7 @@ bio: Я изучаю прикладную математику и информа
 
 # Interests to show in About widget
 interests:
-  - Программированиее
+  - Программирование
   - Математика
 
 # Education to show in About widget
