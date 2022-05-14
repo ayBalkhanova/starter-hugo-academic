@@ -18,15 +18,15 @@ subtitle:
 feature:
   - description: 20%
     icon: circle-c
-    icon_pack: fab
+    icon_pack: fas
     name: С/С++
   - description: 10%
     icon: display-code
-    icon_pack: fas
+    icon_pack: fab
     name: программирование
   - description: 30%
     icon: calculator-simple
-    icon_pack: fas
+    icon_pack: fab
     name: математика
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
