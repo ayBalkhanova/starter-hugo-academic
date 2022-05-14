@@ -14,11 +14,11 @@ organizations:
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Яя изучаю прикладную математику и информатику.
+bio: Я изучаю прикладную математику и информатику.
 
 # Interests to show in About widget
 interests:
-  - Программирование
+  - Программированиее
   - Математика
 
 # Education to show in About widget
