@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 20%
-    icon: circle-c
+    icon: chart-line
     icon_pack: fas
     name: С/С++
   - description: 10%
