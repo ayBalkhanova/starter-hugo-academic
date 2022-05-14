@@ -39,7 +39,7 @@ experience:
   - title: Учащийся университета
     company: Российский университет дружбы народов
     company_url: ''
-    company_logo: org-РУДН
+    company_logo: org-rudn
     location: Россия
     date_start: '2021-09-01'
     date_end: ''
