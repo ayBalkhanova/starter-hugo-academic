@@ -30,7 +30,6 @@ experience:
     date_start: '2010-09-01'
     date_end: '2021-06-01'
     description: |2-
-       Обязанности:
         
         * Начальная школа
         * Средняя школа
@@ -44,7 +43,6 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
-       Обязанности:
         
         * Первый курс
 
