@@ -25,7 +25,7 @@ feature:
     icon_pack: fab
     name: программирование
   - description: 30%
-    icon: calculator
+    icon: m
     icon_pack: fab
     name: математика
 # Uncomment to use emoji icons.
