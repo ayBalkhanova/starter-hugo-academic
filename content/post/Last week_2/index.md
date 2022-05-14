@@ -53,25 +53,25 @@ categories:
 ## Выполнение работы
 1. Добавила данные о себе: биографию, интересы, образование, фотографию:
 
-	![Посты](image/Screenshot_7.png){ #fig:001 width=70% }
+	![Посты](image/Screenshot_7.png)
 
-	![Данные о себе](image/Screenshot_4.png){ #fig:001 width=70% }
+	![Данные о себе](image/Screenshot_4.png)
 	
 1. Сделала пост о выполнении индивидуального проекта на прошлой неделе:
 	
-	![Маркдаун](image/Screenshot_6.png){ #fig:001 width=70% }
+	![Маркдаун](image/Screenshot_6.png)
 		
-	![пост о выполнении индивидуального проекта](image/Screenshot_2.png){ #fig:001 width=70% }
+	![пост о выполнении индивидуального проекта](image/Screenshot_2.png)
 		
 1. Сделала пост об управлении версиями. Git.
 	
-	![Маркдаун](image/Screenshot_5.png){ #fig:001 width=70% }
+	![Маркдаун](image/Screenshot_5.png)
 		
-	![пост об управлении версиями](image/Screenshot_1.png){ #fig:001 width=70% }
+	![пост об управлении версиями](image/Screenshot_1.png)
 		
 1. Посты:
 	
-	![Посты](image/Screenshot_3.png){ #fig:001 width=70% }
+	![Посты](image/Screenshot_3.png)
 	
 # Выводы
 
