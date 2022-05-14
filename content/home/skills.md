@@ -21,11 +21,11 @@ feature:
     icon_pack: fas
     name: С/С++
   - description: 10%
-    icon: display-code
+    icon: file-lines
     icon_pack: fab
     name: программирование
   - description: 30%
-    icon: calculator-simple
+    icon: file-lines
     icon_pack: fab
     name: математика
 # Uncomment to use emoji icons.
