@@ -17,15 +17,15 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 20%
-    icon: c
+    icon: c++
     icon_pack: fas
     name: С/С++
   - description: 10%
-    icon: file-lines
+    icon: c
     icon_pack: fab
     name: программирование
   - description: 30%
-    icon: calculator
+    icon: m
     icon_pack: fab
     name: математика
 # Uncomment to use emoji icons.
