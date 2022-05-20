@@ -25,12 +25,10 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: scholar.google.com
-  phone: 888 888 88 88
 
   contact_links:
     - icon: book
-      icon_pack: fab
+      icon_pack: fas
       name: eLibrary
       link: 'https://elibrary.ru/'
     - icon: book
