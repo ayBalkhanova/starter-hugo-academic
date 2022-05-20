@@ -25,32 +25,42 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: scholar.google.com
   phone: 888 888 88 88
-  address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+
   contact_links:
-    - icon: twitter
+    - icon: book
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
+      name: eLibrary
+      link: 'https://elibrary.ru/'
+    - icon: book
       icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      name: Google Scholar
+      link: 'https://scholar.google.com/'
+    - icon: book
+      icon_pack: fas
+      name: ORCID
+      link: 'https://orcid.org/'
+    - icon: book
+      icon_pack: fas
+      name: Mendeley
+      link: 'https://www.mendeley.com/'
+    - icon: book
+      icon_pack: fas
+      name: ResearchGate
+      link: 'https://www.researchgate.net/'
+    - icon: book
+      icon_pack: fas
+      name: Academia.edu
+      link: 'https://independent.academia.edu/AltanaBalkhanova'
+    - icon: book
+      icon_pack: fas
+      name: arXiv
+      link: 'https://arxiv.org/'
+    - icon: book
+      icon_pack: fas
+      name: github
+      link: 'https://github.com/ayBalkhanova'
 
 design:
   columns: '2'
