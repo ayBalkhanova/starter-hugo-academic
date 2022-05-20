@@ -54,29 +54,29 @@ categories:
 ## Выполнение работы
 1. Добавила список достижений: навыки, опыт, достижения:
 
-	![Иконки](image/Screenshot_1.png){ #fig:001 width=70% }
+	![Иконки](image/Screenshot_1.png)
 
-	![Навыки](image/Screenshot_6.png){ #fig:001 width=70% }
+	![Навыки](image/Screenshot_6.png)
 	
-	![Опыт](image/Screenshot_7.png){ #fig:001 width=70% }
+	![Опыт](image/Screenshot_7.png)
 
-	![Достижения](image/Screenshot_8.png){ #fig:001 width=70% }
+	![Достижения](image/Screenshot_8.png)
 	
 1. Сделала пост о выполнении индивидуального проекта на прошлой неделе:
 	
-	![Маркдаун](image/Screenshot_3.png){ #fig:001 width=70% }
+	![Маркдаун](image/Screenshot_3.png)
 		
-	![Пост о выполнении индивидуального проекта](image/Screenshot_5.png){ #fig:001 width=70% }
+	![Пост о выполнении индивидуального проекта](image/Screenshot_5.png)
 		
 1. Сделала пост о языке разметки. LaTeX.
 	
-	![Маркдаун](image/Screenshot_2.png){ #fig:001 width=70% }
+	![Маркдаун](image/Screenshot_2.png)
 		
-	![Пост о языке разметки. LaTeX.](image/Screenshot_4.png){ #fig:001 width=70% }
+	![Пост о языке разметки. LaTeX.](image/Screenshot_4.png)
 		
 1. Посты:
 	
-	![Посты](image/Screenshot_9.png){ #fig:001 width=70% }
+	![Посты](image/Screenshot_9.png)
 	
 # Выводы
 
