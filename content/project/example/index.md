@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Проект
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
@@ -30,12 +30,69 @@ url_video: ''
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Тут находится персональный проект.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Я не знаю, что писать, поэтому скопирую рекомендации по выполнению проекта.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+СОДЕРЖАНИЕ
+ВВЕДЕНИЕ.................................................................................................................... 4
+1. ПЛАН РАБОТЫ НАД ПРОЕКТОМ ..................................................................... 4
+2. СТРУКТУРА ИНДИВИДУАЛЬНОГО ПРОЕКТА ............................................. 5
+2.1 Оформление титульного листа ........................................................................... 5
+2.2 Содержание........................................................................................................... 7
+2.3 Введение................................................................................................................ 7
+2.4 Основная часть ..................................................................................................... 8
+2.5 Заключение ........................................................................................................... 8
+2.6 Список использованных источников ................................................................. 8
+3. ТРЕБОВАНИЯ К ОФОРМЛЕНИЮ ИНДИВИДУАЛЬНОГО ПРОЕКТА........ 9
+3.1 Как пронумеровать страницы MS Word без титульного листа..................... 11
+4. КАК СДЕЛАТЬ АВТОМАТИЧЕСКОЕ СОДЕРЖАНИЕ В MS WORD 2007 14
+4.1 Расстановка переносов ...................................................................................... 18
+4.2 Рисунки ............................................................................................................... 19
+ПРИЛОЖЕНИЕ ........................................................................................................... 21
+4
+ВВЕДЕНИЕ
+Индивидуальный проект предусмотрен учебным планом, выполняя его,
+студент демонстрирует имеющиеся предметные знания, сформированные
+навыки анализа, постановки задач, работы с информацией.
+Приобретая опыт практической деятельности в той или иной области,
+студент осуществляет профессиональные пробы и имеет возможность
+непосредственно оценить привлекательность различных направлений
+дальнейшего профессионального образования. Результаты проекта станут
+ключевым элементом портфолио, и именно в проектной деятельности наиболее
+ярко будут проявлять способности студенты.
+1. ПЛАН РАБОТЫ НАД ПРОЕКТОМ
+Этапы работы над проектом
+1 этап – Проблематизация. Из проблемы проекта следует его тема,
+которая часто является краткой формулировкой исходной проблемы.
+2 этап – Планирование. Важно ответить на следующие вопросы: Что
+необходимо сделать, чтобы достичь цели проекта? – ответ на этот вопрос
+поможет разбить весь путь от исходной проблемы до цели проекта на
+отдельные этапы и определить задачи. На этом же этапе необходимо
+определить, каким будет проектный продукт, решить, что будет создано для
+того, чтобы цель проекта была достигнута.
+3 этап – Поиск информации, ее анализ, сбор и уточнение, обсуждение
+альтернатив, выбор оптимального варианта, уточнение планов деятельности.
+Цель информационного поиска - быстро и своевременно отыскать
+необходимую информацию, полезную при создании конкретного проекта.
+4 этап – Реализация плана, выполнение проекта, формулирование
+выводов.
+5 этап – Рефлексия. Анализ выполнения проекта, достигнутых
+результатов (успехов и неудач) и причин этого, анализ достижений
+поставленной цели.
+6 этап – Презентация – это витрина проекта. Презентацию желательно
+отрепетировать.
+Студенты часто делают ошибки при оформлении работы, поэтому
+подробно рассмотрим её.
+5
+2. СТРУКТУРА ИНДИВИДУАЛЬНОГО ПРОЕКТА
+Структурными элементами работы являются:
+ Титульный лист
+ Содержание (перечень частей проекта)
+ Введение (указывается актуальность, тема, цель, задачи проекта)
+ Основная часть (главы, разделы, параграфы)
+ Заключение
+ Список использованных источников
+ Приложения (при наличии)
+Требования к объему индивидуального проекта 10-20 страниц
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
